@@ -1,0 +1,8 @@
+{
+  "name": "Info Institute of Engineering - Academic Management Portal",
+  "description": "Comprehensive academic management portal for Info Institute of Engineering, Coimbatore, featuring HOD, Advisor, and Student dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
